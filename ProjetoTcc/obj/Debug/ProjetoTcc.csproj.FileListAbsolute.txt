@@ -1,0 +1,11 @@
+C:\Projetos\projetotcc\ProjetoTcc\ProjetoTcc\bin\Debug\ProjetoTcc.dll
+C:\Projetos\projetotcc\ProjetoTcc\ProjetoTcc\bin\Debug\ProjetoTcc.pdb
+C:\Projetos\projetotcc\ProjetoTcc\ProjetoTcc\bin\Debug\nunit.framework.dll
+C:\Projetos\projetotcc\ProjetoTcc\ProjetoTcc\bin\Debug\WebDriver.dll
+C:\Projetos\projetotcc\ProjetoTcc\ProjetoTcc\bin\Debug\WebDriver.Support.dll
+C:\Projetos\projetotcc\ProjetoTcc\ProjetoTcc\bin\Debug\nunit.framework.xml
+C:\Projetos\projetotcc\ProjetoTcc\ProjetoTcc\bin\Debug\WebDriver.xml
+C:\Projetos\projetotcc\ProjetoTcc\ProjetoTcc\bin\Debug\WebDriver.Support.xml
+C:\Projetos\projetotcc\ProjetoTcc\ProjetoTcc\obj\Debug\ProjetoTcc.dll
+C:\Projetos\projetotcc\ProjetoTcc\ProjetoTcc\obj\Debug\ProjetoTcc.pdb
+C:\Projetos\projetotcc\ProjetoTcc\ProjetoTcc\obj\Debug\ProjetoTcc.csprojResolveAssemblyReference.cache

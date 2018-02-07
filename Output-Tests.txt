@@ -1,0 +1,6 @@
+﻿------ Run test started ------
+NUnit Adapter 3.7.0.0: Test execution started
+Running all tests in C:\Projetos\projetotcc\ProjetoTcc\ProjetoTcc\bin\Debug\ProjetoTcc.dll
+NUnit3TestExecutor converted 1 of 1 NUnit test cases
+NUnit Adapter 3.7.0.0: Test execution complete
+========== Run test finished: 1 run (0:00:55,6527092) ==========
