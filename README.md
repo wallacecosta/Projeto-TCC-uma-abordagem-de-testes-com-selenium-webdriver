@@ -1,7 +1,7 @@
 # Projeto-TCC
 ## Uma abordagem prática de testes automatizados utilizando Selenium WebDriver
 
->                                           Wallace Creton da Costa 
+                                            Wallace Creton da Costa 
 
                                     Centro Universitário Augusto Motta (UNISUAM)
 
