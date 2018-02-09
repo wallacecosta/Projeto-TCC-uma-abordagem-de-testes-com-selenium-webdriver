@@ -18,12 +18,3 @@ podem existir contratempos que acabam por tornar bugs ou efeitos. Devido ao expo
 
 ![O alt](https://github.com/wallacecosta/projeto-tcc-selenium-webdriver/tree/master/img/motivacao.jpg "Motivação")
 
-![O alt](https://github.com/wallacecosta/projeto-tcc-selenium-webdriver/blob/master/img/site-para-teste.png "Site")
-
-![O alt](https://github.com/wallacecosta/projeto-tcc-selenium-webdriver/tree/master/img/preparando-ambiente.png "Preparando")
-
-![O alt](https://github.com/wallacecosta/projeto-tcc-selenium-webdriver/blob/master/img/add-nunit.png "Adicionando")
-
-![O alt](https://github.com/wallacecosta/projeto-tcc-selenium-webdriver/blob/master/img/criando-projeto].png "Criando")
-
-![O alt](https://github.com/wallacecosta/projeto-tcc-selenium-webdriver/tree/master/img/add-referencias.png "Adicionando")
