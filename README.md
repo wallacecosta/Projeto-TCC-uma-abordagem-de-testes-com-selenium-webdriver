@@ -16,14 +16,14 @@
 Embora algumas empresas e equipes ainda desenvolvam softwares, sem a participação de um testador ou analista de testes, esse comportamento tende a ser cada vez mais raro, pois ter um profissional focado na qualidade do software é indispensável e pode comprometer o produto e a imagem da empresa. Nenhuma empresa gostaria de ser taxada de ruim seja por vender um produto que não foi bem aceito no mercado pelos consumidores, como por ter vindo com defeito. Se já é difícil fazer algo que seja recebido com bons olhos então imagina algo que vem com defeito? Com certeza é ruim e com software não é diferente, segundo Bartié (2002), administrar um projeto de desenvolvimento de software para o sucesso significa eliminar ou minimizar os riscos e conflitos existentes. Existem diversos fatores que podem contribuir para a qualidade final do produto – profissionais experientes e bem treinados, metodologias e ferramentas adequadas. E mesmo assim
 podem existir contratempos que acabam por tornar bugs ou efeitos. Devido ao exposto, o teste tem importância primordial, para ser evitado que coloque em produção um software mal feito que cause descrédito por parte dos usuários custando caro, por isso a importância dos testes deve ser levada à sério. 
 
-![O alt](https://github.com/wallacecosta/projeto-tcc-selenium-webdriver/tree/master/img/motivacao.jpg "Motivação para o trabalho de conclusão")
+![O alt](https://github.com/wallacecosta/projeto-tcc-selenium-webdriver/tree/master/img/motivacao.jpg "Motivação")
 
-![O alt](https://github.com/wallacecosta/projeto-tcc-selenium-webdriver/blob/master/img/site-para-teste.png "Site que será testado")
+![O alt](https://github.com/wallacecosta/projeto-tcc-selenium-webdriver/blob/master/img/site-para-teste.png "Site")
 
-![O alt](https://github.com/wallacecosta/projeto-tcc-selenium-webdriver/tree/master/img/preparando-ambiente.png "Preparando o ambiente")
+![O alt](https://github.com/wallacecosta/projeto-tcc-selenium-webdriver/tree/master/img/preparando-ambiente.png "Preparando")
 
-![O alt](https://github.com/wallacecosta/projeto-tcc-selenium-webdriver/blob/master/img/add-nunit.png "Adicionando NUnit ao Visual Studio")
+![O alt](https://github.com/wallacecosta/projeto-tcc-selenium-webdriver/blob/master/img/add-nunit.png "Adicionando")
 
-![O alt](https://github.com/wallacecosta/projeto-tcc-selenium-webdriver/blob/master/img/criando-projeto].png "Criando o projeto de teste")
+![O alt](https://github.com/wallacecosta/projeto-tcc-selenium-webdriver/blob/master/img/criando-projeto].png "Criando")
 
-![O alt](https://github.com/wallacecosta/projeto-tcc-selenium-webdriver/tree/master/img/add-referencias.png "Adicioando as referências")
+![O alt](https://github.com/wallacecosta/projeto-tcc-selenium-webdriver/tree/master/img/add-referencias.png "Adicionando")
