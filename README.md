@@ -17,8 +17,13 @@ Embora algumas empresas e equipes ainda desenvolvam softwares, sem a participaç
 podem existir contratempos que acabam por tornar bugs ou efeitos. Devido ao exposto, o teste tem importância primordial, para ser evitado que coloque em produção um software mal feito que cause descrédito por parte dos usuários custando caro, por isso a importância dos testes deve ser levada à sério. 
 
 ![O alt](https://github.com/wallacecosta/projeto-tcc-selenium-webdriver/tree/master/img/motivacao.jpg "Motivação para o trabalho de conclusão")
+
 ![O alt](https://github.com/wallacecosta/projeto-tcc-selenium-webdriver/blob/master/img/site-para-teste.png "Site que será testado")
+
 ![O alt](https://github.com/wallacecosta/projeto-tcc-selenium-webdriver/tree/master/img/preparando-ambiente.png "Preparando o ambiente")
+
 ![O alt](https://github.com/wallacecosta/projeto-tcc-selenium-webdriver/blob/master/img/add-nunit.png "Adicionando NUnit ao Visual Studio")
+
 ![O alt](https://github.com/wallacecosta/projeto-tcc-selenium-webdriver/blob/master/img/criando-projeto].png "Criando o projeto de teste")
+
 ![O alt](https://github.com/wallacecosta/projeto-tcc-selenium-webdriver/tree/master/img/add-referencias.png "Adicioando as referências")
